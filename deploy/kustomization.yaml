@@ -4,5 +4,5 @@ resources:
 - app-deployment.yml
 - app-service.yml
 images:
-- name: 241442071922.dkr.ecr.us-west-2.amazonaws.com/test
+- name: 280389627074.dkr.ecr.us-west-2.amazonaws.com/test
   newTag: 050b0d805ebe2c4dd78be80afae7cd569c333057

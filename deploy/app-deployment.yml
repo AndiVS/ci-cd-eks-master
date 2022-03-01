@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
         - name: minikube-simple-app
-          image: "241442071922.dkr.ecr.us-west-2.amazonaws.com/test"
+          image: "280389627074.dkr.ecr.us-west-2.amazonaws.com/test"
